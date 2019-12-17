@@ -1,0 +1,1143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-5267911' action='modify' visible='true' lat='8.9672156853' lon='38.88434807497'>
+    <tag k='name' v='ገብርኤል ቤ/ን / ST.GEBREAL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S11' />
+  </node>
+  <node id='-5267913' action='modify' visible='true' lat='8.96548143591' lon='38.88505163351'>
+    <tag k='name' v='ፕሮጀክት15/PROJECT 15' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S12' />
+  </node>
+  <node id='-5267915' action='modify' visible='true' lat='8.97156699319' lon='38.89020060649'>
+    <tag k='name' v='ሰፈራ/SEFERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S13' />
+  </node>
+  <node id='-5267917' action='modify' visible='true' lat='8.97245913828' lon='38.8910639968'>
+    <tag k='name' v='ጨርቆስ/CHERKOSE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S13' />
+  </node>
+  <node id='-5267919' action='modify' visible='true' lat='9.02125525473' lon='38.87687481942'>
+    <tag k='name' v='አያት/AYAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S7' />
+  </node>
+  <node id='-5267921' action='modify' visible='true' lat='9.00240929658' lon='38.87654992774'>
+    <tag k='name' v='ሰንሻይን/SUNSHINE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S8' />
+  </node>
+  <node id='-5267923' action='modify' visible='true' lat='8.99814537335' lon='38.88405529902'>
+    <tag k='name' v='ንቡ ሚካኤል/NEBU MICHAEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S9' />
+  </node>
+  <node id='-5267925' action='modify' visible='true' lat='8.97726566797' lon='38.88458110073'>
+    <tag k='name' v='ኬላ/KELA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR007S10' />
+  </node>
+  <node id='-5267927' action='modify' visible='true' lat='8.98307220167' lon='38.754205624'>
+    <tag k='name' v='ፔፕሲ/PEPSI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S10' />
+  </node>
+  <node id='-5267929' action='modify' visible='true' lat='8.97627187388' lon='38.7598242398'>
+    <tag k='name' v='ጎተራ/GOTERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR00S11' />
+  </node>
+  <node id='-5267931' action='modify' visible='true' lat='8.97330702508' lon='38.76058599137'>
+    <tag k='name' v='ማሞ/MAMO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S12' />
+  </node>
+  <node id='-5267933' action='modify' visible='true' lat='8.94493995483' lon='38.76614717668'>
+    <tag k='name' v='ሳሪስ አቦ/SARIS ABO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH008S16' />
+  </node>
+  <node id='-5267935' action='modify' visible='true' lat='9.01569802032' lon='38.73482042365'>
+    <tag k='name' v='ዳርማ/DARMA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S2' />
+  </node>
+  <node id='-5267937' action='modify' visible='true' lat='9.01045350032' lon='38.74212925052'>
+    <tag k='name' v='ተግባረድ/TEGBARE EID' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S4' />
+  </node>
+  <node id='-5267939' action='modify' visible='true' lat='9.00901881626' lon='38.74627303825'>
+    <tag k='name' v='ሜክሲኮ/MEXICO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S5' />
+  </node>
+  <node id='-5267941' action='modify' visible='true' lat='8.98626079006' lon='38.74822806768'>
+    <tag k='name' v='ቄራ/KERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S8' />
+  </node>
+  <node id='-5267943' action='modify' visible='true' lat='9.03292365746' lon='38.69541774543'>
+    <tag k='name' v='ሪል እስቴት/REALSTATE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S4' />
+  </node>
+  <node id='-5267945' action='modify' visible='true' lat='9.03522007922' lon='38.68555326196'>
+    <tag k='name' v='ፍሪ ዶሮ/FERI DORO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S5' />
+  </node>
+  <node id='-5267947' action='modify' visible='true' lat='9.02855066502' lon='38.67225212231'>
+    <tag k='name' v='ቀርሳ/KERSA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S6' />
+  </node>
+  <node id='-5267949' action='modify' visible='true' lat='9.03265554882' lon='38.66541161312'>
+    <tag k='name' v='አሸዋ ሜዳ/ASHEWA MEDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S7' />
+  </node>
+  <node id='-5267951' action='modify' visible='true' lat='9.02150236914' lon='38.73349156472'>
+    <tag k='name' v='አብነት/ABNET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR008S1' />
+  </node>
+  <node id='-5267953' action='modify' visible='true' lat='9.03614873814' lon='38.72231415655'>
+    <tag k='name' v='ሰፈረ ሰላም/SEFERE SELAM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S1' />
+  </node>
+  <node id='-5267955' action='modify' visible='true' lat='9.03349636702' lon='38.71222673113'>
+    <tag k='name' v='18 ማዞሪያ/18 MAZORIA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S2' />
+  </node>
+  <node id='-5267957' action='modify' visible='true' lat='9.03329775326' lon='38.70883374605'>
+    <tag k='name' v='ሉካንዳ/LUKANDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S3' />
+  </node>
+  <node id='-5267959' action='modify' visible='true' lat='9.05761388049' lon='38.61016189114'>
+    <tag k='name' v='ኬላ/KELA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S12' />
+  </node>
+  <node id='-5267961' action='modify' visible='true' lat='9.05217525084' lon='38.76220910518'>
+    <tag k='name' v='TEFERI MEKONEN' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T2S2' />
+  </node>
+  <node id='-5267963' action='modify' visible='true' lat='9.00068750739' lon='38.67790274364'>
+    <tag k='name' v='ዓለም ባንክ/ALEM BANK' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR010S8' />
+  </node>
+  <node id='-5267965' action='modify' visible='true' lat='9.04615970077' lon='38.7615477149'>
+    <tag k='name' v='6KILO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO13T2S3' />
+  </node>
+  <node id='-5267967' action='modify' visible='true' lat='9.03527897616' lon='38.7629903165'>
+    <tag k='name' v='4KILO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO13T2S4' />
+  </node>
+  <node id='-5267969' action='modify' visible='true' lat='8.99606694569' lon='38.68336242854'>
+    <tag k='name' v='ትሮፕካል/TROPICAL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHRO10S7' />
+  </node>
+  <node id='-5267971' action='modify' visible='true' lat='8.99258003783' lon='38.68953740216'>
+    <tag k='name' v='ኪደነ ምህረት/KIDANE MIHRET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR010S6' />
+  </node>
+  <node id='-5267973' action='modify' visible='true' lat='9.01863713473' lon='38.75247588929'>
+    <tag k='name' v='BEHIRAWI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO13T2S5' />
+  </node>
+  <node id='-5267975' action='modify' visible='true' lat='9.04126693101' lon='38.62211221792'>
+    <tag k='name' v='ጉጆ/GUJO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR09S11' />
+  </node>
+  <node id='-5267977' action='modify' visible='true' lat='9.02825892613' lon='38.6512996667'>
+    <tag k='name' v='ገብርኤል/ST. GEBRIEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S9' />
+  </node>
+  <node id='-5267979' action='modify' visible='true' lat='9.02675297119' lon='38.6582487554'>
+    <tag k='name' v='ህብረት ባንክ/HIBRET BANK' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S8' />
+  </node>
+  <node id='-5267981' action='modify' visible='true' lat='9.03381333145' lon='38.63825417247'>
+    <tag k='name' v='ታጠቅTATEK' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR009S10' />
+  </node>
+  <node id='-5267983' action='modify' visible='true' lat='9.03088846217' lon='38.78556992072'>
+    <tag k='name' v='አበቤ ሱቅ/Abebe Suke' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR002S1' />
+  </node>
+  <node id='-5267985' action='modify' visible='true' lat='9.03448990513' lon='38.7802084611'>
+    <tag k='name' v='ኮኮበ ጽብሓ&#xA;/ Kokeb TSEBAY' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR002S2' />
+  </node>
+  <node id='-5267987' action='modify' visible='true' lat='9.03646391979' lon='38.75784944498'>
+    <tag k='name' v='70 ደረጃ/70 DEREJA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR003S6' />
+  </node>
+  <node id='-5267989' action='modify' visible='true' lat='9.03458925745' lon='38.75494259803'>
+    <tag k='name' v='ፒያሳ/PIASSA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR003S6' />
+  </node>
+  <node id='-5267991' action='modify' visible='true' lat='9.03042765642' lon='38.83855851361'>
+    <tag k='name' v='ሚካኤል/MICHAEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR004S5' />
+  </node>
+  <node id='-5267993' action='modify' visible='true' lat='9.02659841585' lon='38.82878636934'>
+    <tag k='name' v='ኢትዮ ቻይና/ETHIO-CHINA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR004S3' />
+  </node>
+  <node id='-5267995' action='modify' visible='true' lat='9.03857261723' lon='38.77305281518'>
+    <tag k='name' v='ሚኒሊክ ሆስፒታል/Minilik Hospital' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR002S6' />
+  </node>
+  <node id='-5267997' action='modify' visible='true' lat='9.05059865086' lon='38.76210461904'>
+    <tag k='name' v='መድሀኒያለም/Medhanialem' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR002S7' />
+  </node>
+  <node id='-5267999' action='modify' visible='true' lat='9.03229615703' lon='38.77254500525'>
+    <tag k='name' v='ቤለር/BELARE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR003S1' />
+  </node>
+  <node id='-5268001' action='modify' visible='true' lat='9.03251517883' lon='38.76435922864'>
+    <tag k='name' v='4ኪሎ/4 KILO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR003S5' />
+  </node>
+  <node id='-5268003' action='modify' visible='true' lat='9.00183494784' lon='38.85723194306'>
+    <tag k='name' v='ጎሚስታ/GOMISTA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S8' />
+  </node>
+  <node id='-5268005' action='modify' visible='true' lat='8.9941794542' lon='38.86056451015'>
+    <tag k='name' v='ጤና ጣቢያ/TENA TABEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S10' />
+  </node>
+  <node id='-5268007' action='modify' visible='true' lat='8.9894875702' lon='38.85811624594'>
+    <tag k='name' v='2ኛ በር/HULETEGA BER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S11' />
+  </node>
+  <node id='-5268009' action='modify' visible='true' lat='8.98430125334' lon='38.85698846102'>
+    <tag k='name' v='3ኛ በር/SOSTEGNA BER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SRH005S12' />
+  </node>
+  <node id='-5268011' action='modify' visible='true' lat='9.02152562436' lon='38.81005767095'>
+    <tag k='name' v='አቢሲኒያ/ABYSSINIA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR004S1' />
+  </node>
+  <node id='-5268013' action='modify' visible='true' lat='9.02045012086' lon='38.85183351301'>
+    <tag k='name' v='የተባበሩት/YETEBABERUT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S5' />
+  </node>
+  <node id='-5268015' action='modify' visible='true' lat='9.01066005153' lon='38.85189625072'>
+    <tag k='name' v='ሳፋሪ/SAFARI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S6' />
+  </node>
+  <node id='-5268017' action='modify' visible='true' lat='9.00407558013' lon='38.85177226907'>
+    <tag k='name' v='ሞሐ/MOHA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR005S7' />
+  </node>
+  <node id='-5268019' action='modify' visible='true' lat='8.97007603566' lon='38.7487147414'>
+    <tag k='name' v='MEBRAT NIGIST HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S12' />
+  </node>
+  <node id='-5268021' action='modify' visible='true' lat='8.97588162558' lon='38.74888283493'>
+    <tag k='name' v='GOFA MAZORIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S11' />
+  </node>
+  <node id='-5268023' action='modify' visible='true' lat='8.97712846384' lon='38.74910538487'>
+    <tag k='name' v='GOFA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S3' />
+  </node>
+  <node id='-5268025' action='modify' visible='true' lat='8.98255402723' lon='38.74984655343'>
+    <tag k='name' v='KERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S4' />
+  </node>
+  <node id='-5268027' action='modify' visible='true' lat='9.03299313693' lon='38.75262166806'>
+    <tag k='name' v='PISSA ARADA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S14' />
+  </node>
+  <node id='-5268029' action='modify' visible='true' lat='9.0354570708' lon='38.75256283892'>
+    <tag k='name' v='PIASSA GIORGIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S15' />
+  </node>
+  <node id='-5268031' action='modify' visible='true' lat='8.96450022896' lon='38.74387704827'>
+    <tag k='name' v='MEBRAT CONDOMINIUM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S14' />
+  </node>
+  <node id='-5268033' action='modify' visible='true' lat='8.96687935502' lon='38.74874'>
+    <tag k='name' v='MEBRAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S2' />
+  </node>
+  <node id='-5268035' action='modify' visible='true' lat='9.01200442763' lon='38.74687773562'>
+    <tag k='name' v='MEXICO SHEBELLE HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S9' />
+  </node>
+  <node id='-5268037' action='modify' visible='true' lat='9.01278306781' lon='38.74786112185'>
+    <tag k='name' v='SHEBELLE HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S5' />
+  </node>
+  <node id='-5268039' action='modify' visible='true' lat='9.01567702372' lon='38.75131177866'>
+    <tag k='name' v='BEHERAWI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S4' />
+  </node>
+  <node id='-5268041' action='modify' visible='true' lat='9.0209050725' lon='38.75216489627'>
+    <tag k='name' v='TIKUR ANBESSA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S3' />
+  </node>
+  <node id='-5268043' action='modify' visible='true' lat='8.98434746681' lon='38.75006213337'>
+    <tag k='name' v='KERA DOWNTOWN' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S10' />
+  </node>
+  <node id='-5268045' action='modify' visible='true' lat='8.99379449765' lon='38.74785733856'>
+    <tag k='name' v='BULGARIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T1S8' />
+  </node>
+  <node id='-5268047' action='modify' visible='true' lat='8.99502561319' lon='38.74781589079'>
+    <tag k='name' v='BULGARIYA MAZORIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S6' />
+  </node>
+  <node id='-5268049' action='modify' visible='true' lat='9.0032684278' lon='38.74683814802'>
+    <tag k='name' v='GENET HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S7' />
+  </node>
+  <node id='-5268051' action='modify' visible='true' lat='8.97335498221' lon='38.73157717082'>
+    <tag k='name' v='MEKANISA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S4' />
+  </node>
+  <node id='-5268053' action='modify' visible='true' lat='8.96559359409' lon='38.73288465898'>
+    <tag k='name' v='GERMAN ADEBABAY' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S3' />
+  </node>
+  <node id='-5268055' action='modify' visible='true' lat='8.94935492349' lon='38.73343663351'>
+    <tag k='name' v='MEBRAT HAILE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S2' />
+  </node>
+  <node id='-5268057' action='modify' visible='true' lat='8.93876179973' lon='38.73456403074'>
+    <tag k='name' v='HAILE GARMENT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T1S6' />
+  </node>
+  <node id='-5268059' action='modify' visible='true' lat='9.02641733967' lon='38.7517757555'>
+    <tag k='name' v='TEDROS ADEBABAY' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S12' />
+  </node>
+  <node id='-5268061' action='modify' visible='true' lat='9.03193612105' lon='38.75124282325'>
+    <tag k='name' v='PIASSA MEHAMUDE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO20T2S13' />
+  </node>
+  <node id='-5268063' action='modify' visible='true' lat='8.99295993509' lon='38.73835086316'>
+    <tag k='name' v='SAR BET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S6' />
+  </node>
+  <node id='-5268065' action='modify' visible='true' lat='8.98223296036' lon='38.73433315208'>
+    <tag k='name' v='ABO MAZORIA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T1S3' />
+  </node>
+  <node id='-5268067' action='modify' visible='true' lat='9.03818710123' lon='38.87737884333'>
+    <tag k='name' v='YEKA 03' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T2S4' />
+  </node>
+  <node id='-5268069' action='modify' visible='true' lat='9.03548952649' lon='38.87790053308'>
+    <tag k='name' v='YEKA NO 1CONDOMINUME' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S11' />
+  </node>
+  <node id='-5268071' action='modify' visible='true' lat='9.03029803411' lon='38.87797'>
+    <tag k='name' v='KIBIRDEMEN CHURCH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S10' />
+  </node>
+  <node id='-5268073' action='modify' visible='true' lat='9.0304152071' lon='38.87757087892'>
+    <tag k='name' v='ZONE 8' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T2S5' />
+  </node>
+  <node id='-5268075' action='modify' visible='true' lat='9.05594' lon='38.8784'>
+    <tag k='name' v='TAFO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S15' />
+  </node>
+  <node id='-5268077' action='modify' visible='true' lat='9.05034136598' lon='38.87794819562'>
+    <tag k='name' v='AMISTEGNA BER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S14' />
+  </node>
+  <node id='-5268079' action='modify' visible='true' lat='9.04652112334' lon='38.87788747071'>
+    <tag k='name' v='MENAFESHA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S13' />
+  </node>
+  <node id='-5268081' action='modify' visible='true' lat='9.04012996075' lon='38.87777484769'>
+    <tag k='name' v='GEBRIEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S12' />
+  </node>
+  <node id='-5268083' action='modify' visible='true' lat='9.05700527638' lon='38.77771897821'>
+    <tag k='name' v='ABO MAZORIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T1S5' />
+  </node>
+  <node id='-5268085' action='modify' visible='true' lat='9.0439117245' lon='38.76044171722'>
+    <tag k='name' v='የካቲት/YEKATIT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR011S3' />
+  </node>
+  <node id='-5268087' action='modify' visible='true' lat='9.05579649422' lon='38.77427224546'>
+    <tag k='name' v='KELA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T1S4' />
+  </node>
+  <node id='-5268089' action='modify' visible='true' lat='9.04450277991' lon='38.76133508032'>
+    <tag k='name' v='የካቲት/YEKATIT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR011S4' />
+  </node>
+  <node id='-5268091' action='modify' visible='true' lat='9.04719975122' lon='38.76914741843'>
+    <tag k='name' v='JALMEDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T2S4' />
+  </node>
+  <node id='-5268093' action='modify' visible='true' lat='9.0618220594' lon='38.76137336731'>
+    <tag k='name' v='እስፔን ኤምባሲ/EMBASSY OF SPAIN' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR011S7' />
+  </node>
+  <node id='-5268095' action='modify' visible='true' lat='8.98857159451' lon='38.78975841827'>
+    <tag k='name' v='MILLINUME ADARASH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T1S9' />
+  </node>
+  <node id='-5268097' action='modify' visible='true' lat='8.97573057161' lon='38.68188080179'>
+    <tag k='name' v='ካራ ቆሬ/KARA KORE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR012S6' />
+  </node>
+  <node id='-5268099' action='modify' visible='true' lat='9.00419056758' lon='38.69431370418'>
+    <tag k='name' v='ቤቴል/BETEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR010S6' />
+  </node>
+  <node id='-5268101' action='modify' visible='true' lat='9.0107219275' lon='38.74714010887'>
+    <tag k='name' v='MEXICO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO13T2S6' />
+  </node>
+  <node id='-5268103' action='modify' visible='true' lat='9.014764158' lon='38.69921124833'>
+    <tag k='name' v='መንዲዳ/MENDIDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR010S5' />
+  </node>
+  <node id='-5268105' action='modify' visible='true' lat='9.06235' lon='38.78856'>
+    <tag k='name' v='BERET DILDYE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T2S7' />
+  </node>
+  <node id='-5268107' action='modify' visible='true' lat='9.0623203691' lon='38.78818602771'>
+    <tag k='name' v='BRET DILDYE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T2S1' />
+  </node>
+  <node id='-5268109' action='modify' visible='true' lat='9.01391705835' lon='38.70531323737'>
+    <tag k='name' v='መዉጫ./MEWCHA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR10S4' />
+  </node>
+  <node id='-5268111' action='modify' visible='true' lat='9.0598782' lon='38.7811455'>
+    <tag k='name' v='BONO WUHA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO14T1S6' />
+  </node>
+  <node id='-5268113' action='modify' visible='true' lat='9.01152691323' lon='38.72160674459'>
+    <tag k='name' v='ጦር ኃይሎች/TORHAILOCH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR010S2' />
+  </node>
+  <node id='-5268115' action='modify' visible='true' lat='8.99652729621' lon='38.77242513586'>
+    <tag k='name' v='BOLE MATEMIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S4' />
+  </node>
+  <node id='-5268117' action='modify' visible='true' lat='9.02918411508' lon='38.74429304518'>
+    <tag k='name' v='ተክለሃይማኖት/TEKLEHAIMANOT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR015S2' />
+  </node>
+  <node id='-5268119' action='modify' visible='true' lat='9.00113917526' lon='38.76971714503'>
+    <tag k='name' v='SHEWA DABO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T1S5' />
+  </node>
+  <node id='-5268121' action='modify' visible='true' lat='9.02666824107' lon='38.74065069612'>
+    <tag k='name' v='በርበሬ ተራ/ BERBERE TERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR01S3' />
+  </node>
+  <node id='-5268123' action='modify' visible='true' lat='9.01588412203' lon='38.72948021749'>
+    <tag k='name' v='ኮካ/COCA COLA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR01505' />
+  </node>
+  <node id='-5268125' action='modify' visible='true' lat='9.00556936925' lon='38.76735396583'>
+    <tag k='name' v='DEMBEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T1S4' />
+  </node>
+  <node id='-5268127' action='modify' visible='true' lat='9.00893159524' lon='38.76464840476'>
+    <tag k='name' v='FILAMINGO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S6' />
+  </node>
+  <node id='-5268129' action='modify' visible='true' lat='9.06226562' lon='38.78801304894'>
+    <tag k='name' v='ጉራራ/ብረት - GURARA BIRET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR016S04' />
+  </node>
+  <node id='-5268131' action='modify' visible='true' lat='8.98936583066' lon='38.78821420185'>
+    <tag k='name' v='MILLINIUM ADARASH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S1' />
+  </node>
+  <node id='-5268133' action='modify' visible='true' lat='9.01177495945' lon='38.72224270742'>
+    <tag k='name' v='ጦር ኃይሎች/TORHAYLOCH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR013S2' />
+  </node>
+  <node id='-5268135' action='modify' visible='true' lat='8.99018349441' lon='38.78608626397'>
+    <tag k='name' v='FRIEND SHIP' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T1S8' />
+  </node>
+  <node id='-5268137' action='modify' visible='true' lat='8.98406574743' lon='38.74999459348'>
+    <tag k='name' v='ጎፋ ማዞሪያ/GOFA MAZYORIA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR014S09' />
+  </node>
+  <node id='-5268139' action='modify' visible='true' lat='8.9907040061' lon='38.78438498474'>
+    <tag k='name' v='FRIENDSHIP' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S2' />
+  </node>
+  <node id='-5268141' action='modify' visible='true' lat='8.97711187286' lon='38.7490230611'>
+    <tag k='name' v='ጎፋ ገብርኤል/GOFA GEBRIALE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR014S10' />
+  </node>
+  <node id='-5268143' action='modify' visible='true' lat='8.99221433269' lon='38.77985974426'>
+    <tag k='name' v='RUWANDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S3' />
+  </node>
+  <node id='-5268145' action='modify' visible='true' lat='9.03433850113' lon='38.74983030112'>
+    <tag k='name' v='ሸዋ ዳቦ/SHOA DABO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR015S1' />
+  </node>
+  <node id='-5268147' action='modify' visible='true' lat='9.02643338428' lon='38.7621499877'>
+    <tag k='name' v='ቤተ መንግስት/BETEMENGIST' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR017S03' />
+  </node>
+  <node id='-5268149' action='modify' visible='true' lat='8.96591034136' lon='38.76299392303'>
+    <tag k='name' v='KADISKO BUILDING' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S4' />
+  </node>
+  <node id='-5268151' action='modify' visible='true' lat='8.96594567919' lon='38.76280208749'>
+    <tag k='name' v='NEFAS SILIK' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T1S12' />
+  </node>
+  <node id='-5268153' action='modify' visible='true' lat='9.01599220302' lon='38.77216682149'>
+    <tag k='name' v='ካዛንቺስ/KAZANCHIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR017S04' />
+  </node>
+  <node id='-5268155' action='modify' visible='true' lat='8.99536668238' lon='38.75984080361'>
+    <tag k='name' v='በቅሎ ቤት/BEKLO BET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR018S06' />
+  </node>
+  <node id='-5268157' action='modify' visible='true' lat='8.9733807343' lon='38.76077851366'>
+    <tag k='name' v='MAMO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S5' />
+  </node>
+  <node id='-5268159' action='modify' visible='true' lat='8.96760941218' lon='38.72098588979'>
+    <tag k='name' v='ጀሞ ሚካኤል/JEMO MICHAEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR018S05' />
+  </node>
+  <node id='-5268161' action='modify' visible='true' lat='8.97630586551' lon='38.75998421774'>
+    <tag k='name' v='GOTERA SHADE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S6' />
+  </node>
+  <node id='-5268163' action='modify' visible='true' lat='9.01187028366' lon='38.76265452871'>
+    <tag k='name' v='ESTIFANOSE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T1S2' />
+  </node>
+  <node id='-5268165' action='modify' visible='true' lat='9.05583898917' lon='38.77419064786'>
+    <tag k='name' v='ፈረንሳይ ኬላ/FRENSAYE KELA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR016S03' />
+  </node>
+  <node id='-5268167' action='modify' visible='true' lat='9.01248250463' lon='38.76282649522'>
+    <tag k='name' v='ESTIFANOS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO15T2S7' />
+  </node>
+  <node id='-5268169' action='modify' visible='true' lat='9.0472962045' lon='38.76927236492'>
+    <tag k='name' v='ጃን ሜዳ/JAN MEDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR016S02' />
+  </node>
+  <node id='-5268171' action='modify' visible='true' lat='8.95278105844' lon='38.76352514481'>
+    <tag k='name' v='SARIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S2' />
+  </node>
+  <node id='-5268173' action='modify' visible='true' lat='9.04409924083' lon='38.7636114739'>
+    <tag k='name' v='ስድስት ኪሎ/ SIDEST KILO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR016S01' />
+  </node>
+  <node id='-5268175' action='modify' visible='true' lat='8.95830182423' lon='38.7640592088'>
+    <tag k='name' v='ADY ABABA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S3' />
+  </node>
+  <node id='-5268177' action='modify' visible='true' lat='9.03240455945' lon='38.76334167027'>
+    <tag k='name' v='አራት ኪሎ/ARAT KILO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR017SS02' />
+  </node>
+  <node id='-5268179' action='modify' visible='true' lat='9.00920303763' lon='38.75913501461'>
+    <tag k='name' v='SAINT JOSPHE SCHOOL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S10' />
+  </node>
+  <node id='-5268181' action='modify' visible='true' lat='8.95853983754' lon='38.74986624068'>
+    <tag k='name' v='ድልድይ ማርያም/DILDIY MARIAM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR021S06' />
+  </node>
+  <node id='-5268183' action='modify' visible='true' lat='8.95285343877' lon='38.74481408808'>
+    <tag k='name' v='መስቀለኛ/MESKELGNA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR021S08' />
+  </node>
+  <node id='-5268185' action='modify' visible='true' lat='9.01641251945' lon='38.75527005457'>
+    <tag k='name' v='AMBASSDOR' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S11' />
+  </node>
+  <node id='-5268187' action='modify' visible='true' lat='9.02182568242' lon='38.75216961429'>
+    <tag k='name' v='TIKURE ANBESA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S12' />
+  </node>
+  <node id='-5268189' action='modify' visible='true' lat='8.9473715727' lon='38.74433178049'>
+    <tag k='name' v='ላፍቶ/LAFTO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR022S09' />
+  </node>
+  <node id='-5268191' action='modify' visible='true' lat='9.02771049434' lon='38.75164807966'>
+    <tag k='name' v='TEWODROSE SQUARE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S13' />
+  </node>
+  <node id='-5268193' action='modify' visible='true' lat='8.98833629543' lon='38.75975080128'>
+    <tag k='name' v='AGONA CINEMA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S7' />
+  </node>
+  <node id='-5268195' action='modify' visible='true' lat='8.96067946696' lon='38.71262337303'>
+    <tag k='name' v='ጀሞ 1/JEMO 1' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR018S06' />
+  </node>
+  <node id='-5268197' action='modify' visible='true' lat='8.99538408489' lon='38.75983845363'>
+    <tag k='name' v='GLOBAL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S8' />
+  </node>
+  <node id='-5268199' action='modify' visible='true' lat='8.95956754896' lon='38.70876914935'>
+    <tag k='name' v='ማሪያም ሰፈር/MARIAM SEFER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR019S07' />
+  </node>
+  <node id='-5268201' action='modify' visible='true' lat='8.92101175225' lon='38.73459771242'>
+    <tag k='name' v='ሰፈራ/SEFERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR020S01' />
+  </node>
+  <node id='-5268203' action='modify' visible='true' lat='8.99971986088' lon='38.7586770878'>
+    <tag k='name' v='TEL GARAGE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T2S9' />
+  </node>
+  <node id='-5268205' action='modify' visible='true' lat='9.00432547648' lon='38.7587126827'>
+    <tag k='name' v='RICHE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHO16T1S6' />
+  </node>
+  <node id='-5268207' action='modify' visible='true' lat='8.93584477034' lon='38.74411202947'>
+    <tag k='name' v='ሃናማሪያም/HANA MARIAM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SHR021S01' />
+  </node>
+  <node id='-5268209' action='modify' visible='true' lat='9.00486' lon='38.81'>
+    <tag k='name' v='CONDOMINIUM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S5' />
+  </node>
+  <node id='-5268211' action='modify' visible='true' lat='9.00726469901' lon='38.80568599065'>
+    <tag k='name' v='ANBESSA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T1S2' />
+  </node>
+  <node id='-5268213' action='modify' visible='true' lat='9.01798' lon='38.80189'>
+    <tag k='name' v='MEGENAGNA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S7' />
+  </node>
+  <node id='-5268215' action='modify' visible='true' lat='8.98311400337' lon='38.69826781501'>
+    <tag k='name' v='AYER TENA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH009T1S6' />
+  </node>
+  <node id='-5268217' action='modify' visible='true' lat='8.99386' lon='38.82685'>
+    <tag k='name' v='GORO SCHOOL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S2' />
+  </node>
+  <node id='-5268219' action='modify' visible='true' lat='8.99946533686' lon='38.82092466314'>
+    <tag k='name' v='ALEMAYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S3' />
+  </node>
+  <node id='-5268221' action='modify' visible='true' lat='9.00057015274' lon='38.81968938299'>
+    <tag k='name' v='ALEMEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T1S5' />
+  </node>
+  <node id='-5268223' action='modify' visible='true' lat='9.00363501202' lon='38.81485674682'>
+    <tag k='name' v='MEBERAT HAILE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T1S4' />
+  </node>
+  <node id='-5268225' action='modify' visible='true' lat='9.01963801877' lon='38.73274172501'>
+    <tag k='name' v='ABINET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH009T1S2' />
+  </node>
+  <node id='-5268227' action='modify' visible='true' lat='9.02799808855' lon='38.73317240419'>
+    <tag k='name' v='SEBATEGA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH009T2S7' />
+  </node>
+  <node id='-5268229' action='modify' visible='true' lat='9.03179124979' lon='38.7324011667'>
+    <tag k='name' v='AUTOBIS TERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH009T1S1' />
+  </node>
+  <node id='-5268231' action='modify' visible='true' lat='9.01774412533' lon='38.79556520187'>
+    <tag k='name' v='LEM HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T1S7' />
+  </node>
+  <node id='-5268233' action='modify' visible='true' lat='8.98669138866' lon='38.70789851821'>
+    <tag k='name' v='ZENABE WORK' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T1S5' />
+  </node>
+  <node id='-5268235' action='modify' visible='true' lat='8.99265250269' lon='38.71569007527'>
+    <tag k='name' v='TOTAL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S3' />
+  </node>
+  <node id='-5268237' action='modify' visible='true' lat='9.00939' lon='38.72069'>
+    <tag k='name' v='TORHYLOCH' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T2S4' />
+  </node>
+  <node id='-5268239' action='modify' visible='true' lat='9.01163805866' lon='38.73295086936'>
+    <tag k='name' v='LIDETA KEFETEGA FIRDBET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH009T2S5' />
+  </node>
+  <node id='-5268241' action='modify' visible='true' lat='9.01200711398' lon='38.75700277937'>
+    <tag k='name' v='STADIUM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T2S7' />
+  </node>
+  <node id='-5268243' action='modify' visible='true' lat='9.03497' lon='38.73201'>
+    <tag k='name' v='ATOBIS TERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S8' />
+  </node>
+  <node id='-5268245' action='modify' visible='true' lat='9.0412885936' lon='38.73230396132'>
+    <tag k='name' v='MIKALE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S7' />
+  </node>
+  <node id='-5268247' action='modify' visible='true' lat='9.04628783932' lon='38.73021269628'>
+    <tag k='name' v='PASTOR' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S6' />
+  </node>
+  <node id='-5268249' action='modify' visible='true' lat='9.01623111816' lon='38.78966817868'>
+    <tag k='name' v='HAYA HULET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T1S6' />
+  </node>
+  <node id='-5268251' action='modify' visible='true' lat='9.01455317334' lon='38.78244612082'>
+    <tag k='name' v='ZERIHUN' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T1S5' />
+  </node>
+  <node id='-5268253' action='modify' visible='true' lat='9.01112637413' lon='38.77521522449'>
+    <tag k='name' v='URALE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T1S4' />
+  </node>
+  <node id='-5268255' action='modify' visible='true' lat='9.01023304601' lon='38.76950033489'>
+    <tag k='name' v='BANBIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH011T1S3' />
+  </node>
+  <node id='-5268257' action='modify' visible='true' lat='9.07141207274' lon='38.68897948182'>
+    <tag k='name' v='SANSUSI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S1' />
+  </node>
+  <node id='-5268259' action='modify' visible='true' lat='9.06228451324' lon='38.76128626237'>
+    <tag k='name' v='SHIRO MEDA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S7' />
+  </node>
+  <node id='-5268261' action='modify' visible='true' lat='9.07166052084' lon='38.73698038766'>
+    <tag k='name' v='DEL BER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH018T2S1' />
+  </node>
+  <node id='-5268263' action='modify' visible='true' lat='9.06794' lon='38.73478'>
+    <tag k='name' v='AJIP' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S9' />
+  </node>
+  <node id='-5268265' action='modify' visible='true' lat='9.05115429181' lon='38.72285713168'>
+    <tag k='name' v='MEDANIALEM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S5' />
+  </node>
+  <node id='-5268267' action='modify' visible='true' lat='9.05544467574' lon='38.71381153084'>
+    <tag k='name' v='WINGET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S4' />
+  </node>
+  <node id='-5268269' action='modify' visible='true' lat='9.06168287614' lon='38.7010166886'>
+    <tag k='name' v='CHERETA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S3' />
+  </node>
+  <node id='-5268271' action='modify' visible='true' lat='9.06529660023' lon='38.69228584381'>
+    <tag k='name' v='ASKO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH012T2S2' />
+  </node>
+  <node id='-5268273' action='modify' visible='true' lat='9.02071' lon='38.85385'>
+    <tag k='name' v='YETEBABERUT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S6' />
+  </node>
+  <node id='-5268275' action='modify' visible='true' lat='9.02134827265' lon='38.84141877625'>
+    <tag k='name' v='ST MIKALE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S5' />
+  </node>
+  <node id='-5268277' action='modify' visible='true' lat='9.02163900605' lon='38.8342045378'>
+    <tag k='name' v='CIVIL SERVICE' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S4' />
+  </node>
+  <node id='-5268279' action='modify' visible='true' lat='9.02031755287' lon='38.82731388218'>
+    <tag k='name' v='SEALITE MIHRET' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S3' />
+  </node>
+  <node id='-5268281' action='modify' visible='true' lat='9.02213178973' lon='38.87651653769'>
+    <tag k='name' v='AYAT ADEBABAY' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S9' />
+  </node>
+  <node id='-5268283' action='modify' visible='true' lat='9.02207987544' lon='38.87596594242'>
+    <tag k='name' v='HILL BOTTOM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T2S6' />
+  </node>
+  <node id='-5268285' action='modify' visible='true' lat='9.02087817438' lon='38.86859298084'>
+    <tag k='name' v='AYAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S8' />
+  </node>
+  <node id='-5268287' action='modify' visible='true' lat='9.02052674127' lon='38.86107051204'>
+    <tag k='name' v='MERI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S7' />
+  </node>
+  <node id='-5268289' action='modify' visible='true' lat='9.06306271027' lon='38.87326298771'>
+    <tag k='name' v='MESKELAGA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S2' />
+  </node>
+  <node id='-5268291' action='modify' visible='true' lat='9.05734524428' lon='38.87390136054'>
+    <tag k='name' v='GEDERA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH001T2S3' />
+  </node>
+  <node id='-5268293' action='modify' visible='true' lat='9.04041252025' lon='38.86431028903'>
+    <tag k='name' v='KARA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T1S7' />
+  </node>
+  <node id='-5268295' action='modify' visible='true' lat='9.0360136423' lon='38.8546599824'>
+    <tag k='name' v='KERA CONDOMINYAM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T1S6' />
+  </node>
+  <node id='-5268297' action='modify' visible='true' lat='9.02025912209' lon='38.8265773132'>
+    <tag k='name' v='SEALITA MIHERAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T2S11' />
+  </node>
+  <node id='-5268299' action='modify' visible='true' lat='9.01875452248' lon='38.82151326766'>
+    <tag k='name' v='GURD SHOLA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S2' />
+  </node>
+  <node id='-5268301' action='modify' visible='true' lat='9.02031471527' lon='38.8026466357'>
+    <tag k='name' v='MEGENAGIA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH003T1S1' />
+  </node>
+  <node id='-5268303' action='modify' visible='true' lat='9.06883112946' lon='38.87559183269'>
+    <tag k='name' v='G13' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T1S13' />
+  </node>
+  <node id='-5268305' action='modify' visible='true' lat='9.02535584625' lon='38.82518911576'>
+    <tag k='name' v='LAMBERAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T1S2' />
+  </node>
+  <node id='-5268307' action='modify' visible='true' lat='9.02397165709' lon='38.81920540867'>
+    <tag k='name' v='MENAHIRIYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T2S10' />
+  </node>
+  <node id='-5268309' action='modify' visible='true' lat='9.02177678243' lon='38.80171706428'>
+    <tag k='name' v='MEGENAGA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T2S12' />
+  </node>
+  <node id='-5268311' action='modify' visible='true' lat='8.98420966347' lon='38.85706868878'>
+    <tag k='name' v='SEMIT CONDOMINIUM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S1' />
+  </node>
+  <node id='-5268313' action='modify' visible='true' lat='9.03307542471' lon='38.84431084942'>
+    <tag k='name' v='WESEN' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T2S7' />
+  </node>
+  <node id='-5268315' action='modify' visible='true' lat='9.02852829921' lon='38.83344982849'>
+    <tag k='name' v='HILLSIDE SCHOOL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T2S8' />
+  </node>
+  <node id='-5268317' action='modify' visible='true' lat='9.02590642961' lon='38.82721816822'>
+    <tag k='name' v='CONDOMINYEM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T1S3' />
+  </node>
+  <node id='-5268319' action='modify' visible='true' lat='9.02597954162' lon='38.82708627835'>
+    <tag k='name' v='CONDOMINEYM' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH004T2S9' />
+  </node>
+  <node id='-5268321' action='modify' visible='true' lat='9.00144222255' lon='38.85731228527'>
+    <tag k='name' v='GOMISTA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T1S10' />
+  </node>
+  <node id='-5268323' action='modify' visible='true' lat='9.00439817758' lon='38.85202716662'>
+    <tag k='name' v='MOHA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S6' />
+  </node>
+  <node id='-5268325' action='modify' visible='true' lat='9.01066713212' lon='38.85220174563'>
+    <tag k='name' v='SAFARI' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S7' />
+  </node>
+  <node id='-5268327' action='modify' visible='true' lat='8.99134' lon='38.82922'>
+    <tag k='name' v='GORO' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH007T1S7' />
+  </node>
+  <node id='-5268329' action='modify' visible='true' lat='8.98949349275' lon='38.85824069855'>
+    <tag k='name' v='HULETEGA BER' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S2' />
+  </node>
+  <node id='-5268331' action='modify' visible='true' lat='8.99413308134' lon='38.86065732057'>
+    <tag k='name' v='TENA TABEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S3' />
+  </node>
+  <node id='-5268333' action='modify' visible='true' lat='8.99844' lon='38.86019'>
+    <tag k='name' v='CONDMINIUM MEGIBEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T2S4' />
+  </node>
+  <node id='-5268335' action='modify' visible='true' lat='8.99814296002' lon='38.86027973713'>
+    <tag k='name' v='CONDOMINUM MEGIBEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH005T1S11' />
+  </node>
+  <node id='-5268337' action='modify' visible='true' lat='9.04887626054' lon='38.74579807581'>
+    <tag k='name' v='SHOLA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T2S6' />
+  </node>
+  <node id='-5268339' action='modify' visible='true' lat='9.04523746951' lon='38.74812582219'>
+    <tag k='name' v='SEMEN HOTEL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S2' />
+  </node>
+  <node id='-5268341' action='modify' visible='true' lat='9.03795335959' lon='38.75198882802'>
+    <tag k='name' v='ST GIORGIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T2S8' />
+  </node>
+  <node id='-5268343' action='modify' visible='true' lat='9.03358778894' lon='38.75354407035'>
+    <tag k='name' v='PIASSA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T2S9' />
+  </node>
+  <node id='-5268345' action='modify' visible='true' lat='9.06152085875' lon='38.73544563116'>
+    <tag k='name' v='KELEBAT' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S7' />
+  </node>
+  <node id='-5268347' action='modify' visible='true' lat='9.05956561956' lon='38.7375459011'>
+    <tag k='name' v='ADISU GEBEYA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T2S4' />
+  </node>
+  <node id='-5268349' action='modify' visible='true' lat='9.05589630307' lon='38.74115179018'>
+    <tag k='name' v='DEL BER SCHOOL' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S5' />
+  </node>
+  <node id='-5268351' action='modify' visible='true' lat='9.05270792762' lon='38.74333678234'>
+    <tag k='name' v='SEMEN MAZEGAJA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH013T1S4' />
+  </node>
+  <node id='-5268353' action='modify' visible='true' lat='9.04248224062' lon='38.74590370641'>
+    <tag k='name' v='KIDUS YOHANNES' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T2S9' />
+  </node>
+  <node id='-5268355' action='modify' visible='true' lat='9.03593263574' lon='38.74936709446'>
+    <tag k='name' v='ABUNE PETROS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T2S10' />
+  </node>
+  <node id='-5268357' action='modify' visible='true' lat='9.03580442994' lon='38.75168701752'>
+    <tag k='name' v='KIDUS GIORGIS' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T2S11' />
+  </node>
+  <node id='-5268359' action='modify' visible='true' lat='9.04811094273' lon='38.73736411836'>
+    <tag k='name' v='ENKULAL FABRICA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T1S3' />
+  </node>
+  <node id='-5268361' action='modify' visible='true' lat='9.04853893589' lon='38.73767960341'>
+    <tag k='name' v='ENQULAL FABRICA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T2S7' />
+  </node>
+  <node id='-5268363' action='modify' visible='true' lat='9.04723526956' lon='38.74217678492'>
+    <tag k='name' v='RAS DESTA' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T2S8' />
+  </node>
+  <node id='-5268365' action='modify' visible='true' lat='9.04340648772' lon='38.74500306998'>
+    <tag k='name' v='KIDUS YOHANES' />
+    <tag k='proj_code' v='SH' />
+    <tag k='stop_id' v='SH017T1S2' />
+  </node>
+</osm>
